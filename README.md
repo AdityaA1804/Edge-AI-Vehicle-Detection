@@ -240,7 +240,6 @@ output.mp4
 # Hardware Used
 
 ```text
-GPU      : NVIDIA GTX 1050 Ti (4 GB)
 CUDA     : 12.1
 Python   : 3.11
 PyTorch  : 2.5.1

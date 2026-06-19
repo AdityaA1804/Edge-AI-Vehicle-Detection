@@ -219,6 +219,28 @@ output.mp4
 
 ---
 
+# Detection Examples
+
+## Example 1
+
+<p align="center">
+<img src="screenshots/comparison_1.jpg" width="800">
+</p>
+
+## Example 2
+
+<p align="center">
+<img src="screenshots/comparison_2.jpg" width="800">
+</p>
+
+## Example 3
+
+<p align="center">
+<img src="screenshots/comparison_3.jpg" width="800">
+</p>
+
+---
+
 # Technologies Used
 
 - Python

@@ -217,12 +217,6 @@ output.mp4
 <img src="results/labels.jpg" width="600">
 </p>
 
-## Detection Example
-
-<p align="center">
-<img src="screenshots/detected_frame.jpg" width="800">
-</p>
-
 ---
 
 # Technologies Used
